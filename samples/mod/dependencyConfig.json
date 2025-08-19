@@ -1,0 +1,29 @@
+[
+  {
+    "NAME": "ZeroOne.UI",
+    "DLL_NAME": "ZeroOne.UI.dll",
+    "VERSION_FILE_NAME": "version.json",
+    "ENTRYPOINT": "ZeroOne.UI.Core.Initializer",
+    "INVOKE_METHOD": "Init",
+    "LINK_TO_VERSION": "https://cdn.01studio.dev/files/UI/version.json",
+    "LINK_TO_DLL": "https://cdn.01studio.dev/files/UI/ZeroOne.UI.dll"
+  },
+  {
+    "NAME": "ZeroOne.Union.Bridge",
+    "DLL_NAME": "ZeroOne.Union.Bridge.dll",
+    "VERSION_FILE_NAME": "version.json",
+    "ENTRYPOINT": "ZeroOne.Union.Bridge.Entry",
+    "INVOKE_METHOD": "Init",
+    "LINK_TO_VERSION": "https://cdn.01studio.dev/files/UNIONBRIDGE/version.json",
+    "LINK_TO_DLL": "https://cdn.01studio.dev/files/UNIONBRIDGE/ZeroOne.Union.Bridge.dll"
+  },
+  {
+    "NAME": "ZeroOne.Union",
+    "DLL_NAME": "ZeroOne.Union.dll",
+    "VERSION_FILE_NAME": "version.json",
+    "ENTRYPOINT": "ZeroOne.Union.Initializer",
+    "INVOKE_METHOD": "Init",
+    "LINK_TO_VERSION": "https://cdn.01studio.dev/files/UNION/version.json",
+    "LINK_TO_DLL": "https://cdn.01studio.dev/files/UNION/ZeroOne.Union.dll"
+  },
+]

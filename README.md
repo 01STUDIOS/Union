@@ -77,6 +77,4 @@ While there aren't many features yet, here are some highlights:
 
 *Important: This is all very brief. To understand how the library works, you need to read the documentation.*
 
-## Documentation
-
-In development
+## [Documentation](https://01studio.dev/union)

@@ -14,8 +14,8 @@
     "VERSION_FILE_NAME": "version.json",
     "ENTRYPOINT": "ZeroOne.Union.Bridge.Entry",
     "INVOKE_METHOD": "Init",
-    "LINK_TO_VERSION": "https://cdn.01studio.dev/files/UNIONBRIDGE/version.json",
-    "LINK_TO_DLL": "https://cdn.01studio.dev/files/UNIONBRIDGE/ZeroOne.Union.Bridge.dll"
+    "LINK_TO_VERSION": "https://github.com/01STUDIOS/Union/raw/main/libs/UNIONBRIDGE/version.json",
+    "LINK_TO_DLL": "https://github.com/01STUDIOS/Union/raw/main/libs/UNIONBRIDGE/ZeroOne.Union.Bridge.dll"
   },
   {
     "NAME": "ZeroOne.Union",
@@ -23,7 +23,7 @@
     "VERSION_FILE_NAME": "version.json",
     "ENTRYPOINT": "ZeroOne.Union.Initializer",
     "INVOKE_METHOD": "Init",
-    "LINK_TO_VERSION": "https://cdn.01studio.dev/files/UNION/version.json",
-    "LINK_TO_DLL": "https://cdn.01studio.dev/files/UNION/ZeroOne.Union.dll"
+    "LINK_TO_VERSION": "https://github.com/01STUDIOS/Union/raw/main/libs/UNION/version.json",
+    "LINK_TO_DLL": "https://github.com/01STUDIOS/Union/raw/main/libs/UNION/ZeroOne.Union.dll"
   },
 ]
